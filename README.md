@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-touch-sweet-midnight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Velvet Touch Sweet Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-touch-sweet-midnight/) |
+| **Get License** | [Request Licensing for Velvet Touch Sweet Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-touch-sweet-midnight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers burning in the dark
+> A slow fire catching in the shadows of my heart
+> Come a little closer, let the silence fade
+> This is the moment that the midnight made
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
